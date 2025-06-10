@@ -1,3 +1,2 @@
 zxc if free software distrubcxzted under the GPL
-s
-a
+Git has a mutable index called stage
